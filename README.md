@@ -18,4 +18,4 @@ been building my own projects with Cursor and Claude Code.
   possible futures instead of doom headlines. I designed the app's UI.
   [Watch the demo](https://youtu.be/_r20M_19XoU) · [Devpost](https://devpost.com/software/uncharted-q4jhsr)
 
-Built with a lot of uzvar <3
+I'm always searching and pondering my next idea :)
