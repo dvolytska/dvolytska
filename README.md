@@ -1,21 +1,20 @@
-# Hi, I'm Daryna 👋
+# Привiт! I'm Daryna :)
 
-Product and UX designer who builds. I design apps for people who usually get
-left out of tech, then build them as working prototypes.
+I'm a product designer in Toronto, studying UX at Humber. I like redesigning
+products so they stop quietly draining people's attention. Lately I've also
+been building my own projects with Cursor and Claude Code.
 
-🌐 [daryna.design](https://www.daryna.design/) · 💼 [LinkedIn](https://www.linkedin.com/in/daryna-volytska/)
+## Things I've built
 
-## Projects
+- **[Heritage](https://github.com/dvolytska/heritage-app)**: an app for writing down
+  stories about the people you love, so the small details don't get lost. I made it
+  during Catalyst 002, a two-week builder cohort in Toronto.
+  [Try it](https://heritage-six-theta.vercel.app)
+- **[AccessBus](https://github.com/dvolytska/accessbus-communihacks-2026)**: the paper
+  trip sheet for KW AccessAbility's accessible bus, rebuilt for a phone. Made with my
+  team at CommuniHacks 2026. [Try it](https://accessbus.netlify.app) (the PIN is 1234)
+- **[Uncharted](https://github.com/dvolytska/uncharted-hack-western-13)**: our Hack
+  Western 13 project with Thomson Lam and Ethan Bobrik. You scroll through your
+  possible futures instead of doom headlines. I designed the app's UI.
 
-**[Heritage](https://github.com/dvolytska/heritage-app)**: a mobile-first app for writing down
-family stories, one person and one memory at a time. Prompts, dictation and read-aloud.
-Built during Catalyst 002, a two-week builder cohort run by [Ambition](https://ambition.inc) in Toronto.
-[Live app →](https://heritage-six-theta.vercel.app)
-
-**[AccessBus](https://github.com/dvolytska/accessbus-communihacks-2026)**: a digital trip sheet
-for KW AccessAbility's accessible bus, designed for older staff and part-time drivers.
-Built at CommuniHacks 2026. [Live prototype →](https://accessbus.netlify.app)
-
-**[Uncharted](https://github.com/dvolytska/uncharted-hack-western-13)**: a scroll feed of your
-own possible futures instead of doom headlines. I designed the mobile app's interface.
-Built at Hack Western 13 with Thomson Lam and Ethan Bobrik.
+Built with a lot of uzvar <3
