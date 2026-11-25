@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Daryna 👋
 
-<!--
-**dvolytska/dvolytska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product and UX designer who builds. I design apps for people who usually get
+left out of tech, then build them as working prototypes.
 
-Here are some ideas to get you started:
+🌐 [daryna.design](https://www.daryna.design/) · 💼 [LinkedIn](https://www.linkedin.com/in/daryna-volytska/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**[Heritage](https://github.com/dvolytska/heritage-app)**: a mobile-first app for writing down
+family stories, one person and one memory at a time. Prompts, dictation and read-aloud.
+Built during Catalyst 002, a two-week builder cohort run by [Ambition](https://ambition.inc) in Toronto.
+[Live app →](https://heritage-six-theta.vercel.app)
+
+**[AccessBus](https://github.com/dvolytska/accessbus-communihacks-2026)**: a digital trip sheet
+for KW AccessAbility's accessible bus, designed for older staff and part-time drivers.
+Built at CommuniHacks 2026. [Live prototype →](https://accessbus.netlify.app)
+
+**[Uncharted](https://github.com/dvolytska/uncharted-hack-western-13)**: a scroll feed of your
+own possible futures instead of doom headlines. I designed the mobile app's interface.
+Built at Hack Western 13 with Thomson Lam and Ethan Bobrik.
