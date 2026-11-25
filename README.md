@@ -16,5 +16,6 @@ been building my own projects with Cursor and Claude Code.
 - **[Uncharted](https://github.com/dvolytska/uncharted-hack-western-13)**: our Hack
   Western 13 project with Thomson Lam and Ethan Bobrik. You scroll through your
   possible futures instead of doom headlines. I designed the app's UI.
+  [Watch the demo](https://youtu.be/_r20M_19XoU) · [Devpost](https://devpost.com/software/uncharted-q4jhsr)
 
 Built with a lot of uzvar <3
